@@ -17,3 +17,6 @@ function getInput(n) {
 }
 
 module.exports = getInput;
+
+console.log(getInput(0));
+console.log(getInput(1));
